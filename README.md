@@ -2,9 +2,9 @@
 
 Project developed for the study presented in the article *“Employing advanced Deep Learning technology for the detection of kidney stones in unenhanced computed tomography (CT) imaging: a model-based approach”* published by *International Journal of Technology, Innovation, and Management* (Volume 03, Issue 02, Dec. 2023).
 
-This study proposes a **Convolutional Neural Network (CNN)** model for detecting kidney stones in computed tomography images. The model was trained with a dataset of images obtained from individuals who underwent examinations to analyze diseases in the urinary system. The model achieved an accuracy of **96.20%** in its predictions and proved to be a good tool for assisting healthcare professionals in analyzing image exams.
-
 **Kidney stones** are currently considered a very common disease and a serious threat to the population's health because they are associated with other diseases that can significantly compromise people's quality of life. AI-based systems that enable the early detection and diagnosis of this disease are very useful tools to help improve clinical processes because they can help reduce the time and costs required to carry out exams, and increase the confidence of healthcare professionals in their diagnoses by using an additional tool to validate their analyses.
+
+This study proposes a **Convolutional Neural Network (CNN)** model for detecting kidney stones in computed tomography images. The model was trained with a dataset of images obtained from individuals who underwent examinations to analyze diseases in the urinary system. The model achieved an accuracy of **96.20%** in its predictions and proved to be a good tool for assisting healthcare professionals in analyzing image exams.
 <br><br>
 ## **PROJECT STRUCTURE**
 
