@@ -20,3 +20,9 @@ https://doi.org/10.54489/ijtim.v3i2.281
 <br><br>
 ## **RESOURCES**
 The dataset used in this study is publicly available at: https://github.com/yildirimozal/Kidney_stone_detection
+<br><br>
+## **LICENSE**
+This project is open-source.
+<br><br>
+## **CITATION**
+If you find this article or code useful for your research, please consider citing it.
