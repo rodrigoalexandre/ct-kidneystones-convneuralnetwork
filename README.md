@@ -24,5 +24,3 @@ The dataset used in this study is publicly available at: https://github.com/yild
 ## **LICENSE**
 This project is open-source.
 <br><br>
-## **CITATION**
-If you find this article or code useful for your research, please consider citing it.
