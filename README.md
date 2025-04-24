@@ -1,3 +1,4 @@
+ [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## **DESCRIPTION**
 
 Project developed for the study presented in the article *“Employing advanced Deep Learning technology for the detection of kidney stones in unenhanced computed tomography (CT) imaging: a model-based approach”* published by *International Journal of Technology, Innovation, and Management* (Volume 03, Issue 02, Dec. 2023).
@@ -22,5 +23,5 @@ https://doi.org/10.54489/ijtim.v3i2.281
 The dataset used in this study is publicly available at: https://github.com/yildirimozal/Kidney_stone_detection
 <br><br>
 ## **LICENSE**
-This project is open-source.
+This project is available under the **MIT license**. See the LICENSE file for more details.
 <br><br>
