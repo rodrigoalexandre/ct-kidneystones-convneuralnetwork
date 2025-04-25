@@ -1,5 +1,5 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
- https://img.shields.io/github/stars/rodrigoalexandre/ct-kidneystones-convneuralnetwork
+![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/ct-kidneystones-convneuralnetwork)
 ## **DESCRIPTION**
 
 Project developed for the study presented in the article *“Employing advanced Deep Learning technology for the detection of kidney stones in unenhanced computed tomography (CT) imaging: a model-based approach”* published by *International Journal of Technology, Innovation, and Management* (Volume 03, Issue 02, Dec. 2023).
