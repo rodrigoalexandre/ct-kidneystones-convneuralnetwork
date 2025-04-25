@@ -1,5 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 ![GitHub language count](https://img.shields.io/github/languages/count/rodrigoalexandre/ct-kidneystones-convneuralnetwork)
+![GitHub top language](https://img.shields.io/github/languages/top/rodrigoalexandre/ct-kidneystones-convneuralnetwork)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/ct-kidneystones-convneuralnetwork)
 ## **DESCRIPTION**
 
