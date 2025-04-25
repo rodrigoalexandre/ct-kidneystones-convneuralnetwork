@@ -1,4 +1,4 @@
- [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/ct-kidneystones-convneuralnetwork)
 ## **DESCRIPTION**
 
