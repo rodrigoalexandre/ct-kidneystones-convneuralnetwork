@@ -14,7 +14,7 @@ Este estudo propõe um modelo de **Rede Neural Convolucional (CNN)** para detec�
 
 |--- source<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- preprocess-ct-dataset.ipynb (Código Python para tratamento das imagens)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- conv-neuralnetwork-model.ipynb (Código Python para criação de treinamento do modelo)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- conv-neuralnetwork-model.ipynb (Código Python para criação e treinamento do modelo)<br>
 |--- dataset<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Localização das imagens
 <br><br>
