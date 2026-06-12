@@ -9,14 +9,13 @@ Este repositório contém o projeto desenvolvido para o estudo apresentado no ar
 **Cálculos renais** são considerados atualmente uma doença muito comum e uma séria ameaça para a saúde da população porque são associados a outras doenças e podem comprometer de forma significativa a qualidade de vida das pessoas. Sistemas baseados em IA que habilitem a detecção e diagnóstico precoces desta doença são considerados ferramentas muito úteis para auxiliar na melhoria dos processos clínicos já que podem auxiliar na redução de tempo e custos envolvidos na realização dos exames, e, no aumento da confiança dos profissionais de saúde na precisão dos diagnósticos.
 
 Este estudo propõe um modelo de **Rede Neural Convolucional (CNN)** para detecção de cálculos renais em imagens de tomografia computadorizada. O modelo foi treinado com um dataset de imagens obtidas a partir de indivíduos que se submeteram a exames para análise de doenças do sistema urinário. O modelo atingiu alta acurácia em suas predições e se provou uma boa ferramenta para assistência aos profissionais de saúde na análise de exames de imagem.
-
 <br><br>
 ## 📂 **ESTRUTURA DO PROJETO**
 
-|--- source<br>
+|--- source\<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- preprocess-ct-dataset.ipynb (Código Python para tratamento das imagens)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- conv-neuralnetwork-model.ipynb (Código Python para criação de treinamento do modelo)<br>
-|--- dataset<br>
+|--- dataset\<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Localização das imagens
 <br><br>
 ## 🔗 **LINK PARA O ARTIGO**
